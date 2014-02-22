@@ -1,0 +1,6 @@
+grails {
+    mongo {
+        
+    }
+}
+
